@@ -8,6 +8,7 @@ rule win_plugx_w2 {
 		ref1 = "https://github.com/mattulm/IR-things/blob/master/volplugs/plugx.py"
 		source = "https://github.com/mattulm/sfiles_yara/blob/master/malware/plugx.yar"
 
+
         malpedia_reference = "https://malpedia.caad.fkie.fraunhofer.de/details/win.plugx"
         malpedia_version = "20170517"
         malpedia_license = "CC BY-NC-SA 4.0"
